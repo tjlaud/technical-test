@@ -8,7 +8,7 @@ Clients (the veterinary clinic that has referred the patient to us) request medi
 Cases are invoiced on a monthly basis to the client.
 
 ## Brief
-Use the data in data.csv to create an interface which enables clients to view their invoices. 
+Use the data in [data.csv](https://github.com/VetCTOrg/interview-test/blob/main/data.csv) to create an interface which enables clients to view their invoices. 
 
 ### Requirements
  - At VetCT we build our front end interfaces in React and Typescript, you may use a tech stack of your preference. 
