@@ -15,3 +15,6 @@ Use the data in [data.csv](https://github.com/VetCTOrg/interview-test/blob/main/
  - At VetCT we build our front end interfaces in React and Typescript, you may use a tech stack of your preference. 
  - Please follow a strict time limit of **no more than 2 hours**; we do not expect a completed interface / product! No matter how much progress you make, we will discuss your interface in person. 
 
+### Submission
+ - Respond to my email with a link to your submission, and a summary of your progress
+ - Please provide any assumptions you have made
